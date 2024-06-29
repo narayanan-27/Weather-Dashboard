@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather-Dashboard/static/css/main.ac5f1b8c.css",
+    "main.js": "/Weather-Dashboard/static/js/main.9fc1d539.js",
+    "static/js/453.97127cc3.chunk.js": "/Weather-Dashboard/static/js/453.97127cc3.chunk.js",
+    "static/media/background.jpg": "/Weather-Dashboard/static/media/background.495f958d7b4f7c929ce3.jpg",
+    "static/media/logo.svg": "/Weather-Dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Weather-Dashboard/index.html",
+    "main.ac5f1b8c.css.map": "/Weather-Dashboard/static/css/main.ac5f1b8c.css.map",
+    "main.9fc1d539.js.map": "/Weather-Dashboard/static/js/main.9fc1d539.js.map",
+    "453.97127cc3.chunk.js.map": "/Weather-Dashboard/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5f1b8c.css",
+    "static/js/main.9fc1d539.js"
+  ]
+}
