@@ -20,7 +20,7 @@ A simple weather dashboard application built with React and TailwindCSS. The app
 
 ## Demo
 
-You can check out the live demo of the Weather Dashboard [here](https://narayanan-27.github.io/Simple-Calculator/).
+You can check out the live demo of the Weather Dashboard [here](https://narayanan-27.github.io/Weather-Dashboard/).
 
 ## Installation
 
